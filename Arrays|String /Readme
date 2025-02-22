@@ -1,4 +1,4 @@
-## Problem Statement
+# Problem Statement
 
 Given two strings `word1` and `word2`, merge them by adding letters in alternating order, starting with `word1`. If one string is longer than the other, append the additional letters at the end.
 
